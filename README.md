@@ -6,4 +6,4 @@ Hi! its my own first project which i learned from [isScope Studios](https://www.
 # Game Play
 
 The following gif will show you how the gameplay is like.
-![Alt Text](https://media.giphy.com/media/FaR9tS1yQYbYXNFNL1/giphy.gif)
+![https://media.giphy.com/media/FaR9tS1yQYbYXNFNL1/giphy.gif](https://media.giphy.com/media/FaR9tS1yQYbYXNFNL1/giphy.gif)
